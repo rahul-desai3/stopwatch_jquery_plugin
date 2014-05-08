@@ -1,0 +1,16 @@
+body {
+    font-family:"Arial", Helvetica, sans-serif;
+    text-align: center;
+}
+.controls{
+	font-size: 12px;
+}
+p, .time {
+    font-size: 150%;
+}
+p{
+    font-style: italic;
+}
+#link{
+    text-align: left;
+}
